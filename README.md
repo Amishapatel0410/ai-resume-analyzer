@@ -145,27 +145,7 @@ VITE_API_URL=https://ai-resume-analyzer-i1nv.onrender.com/api
 
 ## 📸 Screenshots
 
-> Add screenshots in a folder named `screenshots`.
-
-### 🏠 Home Page
-
-![Home](screenshots/home.png)
-
-### 🔐 Login Page
-
-![Login](screenshots/login.png)
-
-### 📄 Resume Upload
-
-![Upload](screenshots/upload.png)
-
-### 📊 Dashboard
-
-![Dashboard](screenshots/dashboard.png)
-
-### 💼 Jobs Page
-
-![Jobs](screenshots/jobs.png)
+> Add screenshots in a folder named `screenshots`
 
 ---
 
